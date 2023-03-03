@@ -31,7 +31,8 @@ body {font-family: "Lato", sans-serif;}
 
 /* Create an active/current "tab button" class */
 .tab button.active {
-  background-color: #ccc;
+  background-color: rgba( 85, 20, 180, 0.5);
+  color: white
 }
 
 /* Style the tab content */
